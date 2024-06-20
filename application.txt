@@ -1,4 +1,4 @@
-T Commands :
+GIT Commands :
 Project Name : Todayproject_04052023
 Note : We need to the create out project directory. Enter into the directory and work on that directory
 git init   	=====> To initialize the local git repositery
